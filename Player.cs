@@ -15,6 +15,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    //Where we would put our map interface so it updates player location
         setLocation();
     }
     public float lat = 1;
